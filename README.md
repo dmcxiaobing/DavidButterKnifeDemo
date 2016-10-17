@@ -1,6 +1,7 @@
 # DavidButterKnifeDemo
 【Android】Android开发之著名框架ButterKnife的使用详解，butterknife8.1.0版本的使用方法
-作者：程序员小冰 （转载请说明出处）博客地址：http://blog.csdn.net/qq_21376985
+
+作者：[程序员小冰](http://blog.csdn.net/qq_21376985/article/details/52836423) （转载请说明出处）
 
 长期维护的Android项目，里面包括常用功能实现，以及知识点详解， 当然还有Java中的知识点。
 
