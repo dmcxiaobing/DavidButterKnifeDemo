@@ -78,5 +78,3 @@ fragment中看官方使用了解绑，我在这里这样使用：
 ```
 
 好了，教程到此结束。是不是很简单呢?一次配置，多次使用。
-
-本节示例源代码地址：https://github.com/QQ986945193/DavidButterKnifeDemo.git
